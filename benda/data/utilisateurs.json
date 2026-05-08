@@ -1,0 +1,11 @@
+[
+  {
+    "id": "USR-001",
+    "nom": "Super Admin",
+    "email": "admin@upc.cd",
+    "mot_de_passe": "$2y$12$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+    "role": "superadmin",
+    "actif": true,
+    "cree_le": "2025-01-01T00:00:00"
+  }
+]

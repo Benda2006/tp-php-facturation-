@@ -1,0 +1,11 @@
+[
+  {
+    "id": "PROD-001",
+    "nom": "Cahier 100 pages",
+    "code_barre": "6001234567890",
+    "prix_unitaire": 1500,
+    "stock": 50,
+    "categorie": "Fournitures",
+    "cree_le": "2025-01-01T00:00:00"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": "FAC-2025-001",
+    "client_nom": "Jean Mukendi",
+    "client_email": "",
+    "lignes": [
+      {
+        "produit_id": "PROD-001",
+        "nom": "Cahier 100 pages",
+        "code_barre": "6001234567890",
+        "quantite": 2,
+        "prix_unitaire": 1500,
+        "sous_total": 3000
+      }
+    ],
+    "total": 3000,
+    "statut": "payee",
+    "cree_par": "USR-001",
+    "cree_le": "2025-01-01T10:00:00"
+  }
+]
